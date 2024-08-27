@@ -1,7 +1,6 @@
 # Dockerize-Springboot
 
-Pre-initialized project: [Link]([https://](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.4.0-SNAPSHOT&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=spring-boot-docker&name=spring-boot-docker&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.spring-boot-docker&dependencies=web))
-
+Pre-initialized project: [Spring Boot Initializer](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.4.0-SNAPSHOT&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=spring-boot-docker&name=spring-boot-docker&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.spring-boot-docker&dependencies=web)
 
 Commands used in the project:
 
